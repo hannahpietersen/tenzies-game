@@ -20,7 +20,7 @@ Create a Tenzies Game using the React.JS framework and its functionalities
 
 ### Screenshot
 
-![screenshot](tenzies-game/src/screenshots/screenshot.png)
+![screenshot](/src/screenshots/screenshot.png)
 
 
 ### Links
