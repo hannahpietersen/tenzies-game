@@ -1,4 +1,4 @@
-# [Tenzies Game](https://tenzies-byhannah.netlify.app/)
+# [Tenzies Game](#tenzies-game)
 This is a solution to the Tenzies Game project
 
 ## Table of Contents
